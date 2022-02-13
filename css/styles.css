@@ -7,16 +7,19 @@ body {
 
 h1{
   font-style:italic;
-  font-size: 25px;
-  color: #251204;
+  font-size: 5.625rem;
+  color: #229954;
   margin: 0;
+  font-weight: bold;
 }
 
 h2{
   font-family: 'Redressed', cursive;
+  color: #229954;
 }
 h3{
   font-family: 'Montserrat', sans-serif;
+  color: #EA2C94;
 }
 .bc{
   position: absolute;
@@ -32,6 +35,7 @@ h3{
 p {
   margin-top: 0;
  font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+ font-size: 32px;
 
 }
 ol{
